@@ -1,7 +1,8 @@
 # DynamicTN
 
-Visit the Website on [dynamictn-front-main.onrender.com](https://dynamictn-front-main.onrender.com/)!
+Website: https://dynamictn-front-main.onrender.com
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+---
 
-DynamicTN is a university project aimed at creating a platform to share and expose improvement suggestions for the city of Trento, Italy.
+DynamicTN was developed as part of a university project and is no longer actively maintained.  
+It was designed to provide a platform where citizens could share ideas to improve the city of Trento, Italy.
